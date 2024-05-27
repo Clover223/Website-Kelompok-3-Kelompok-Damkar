@@ -29,7 +29,7 @@ li a:hover:not(.active) {
 }
   
 .active {
-  background-color: #000000;
+  background-color: #001496;
 }
 h1 {
   color: rgb(255, 255, 255);
